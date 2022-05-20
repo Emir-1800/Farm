@@ -1,0 +1,32 @@
+.addSt {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.addContactInputs {
+  margin-top: 10px;
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+}
+
+.addContactH1 {
+  font-size: 60px;
+  font-weight: 900;
+  color: red;
+}
+
+.addContactInputs::placeholder {
+  color: black;
+  text-align: center;
+}
+
+.addContactBtn {
+  margin-top: 20px;
+  width: 140px;
+  height: 45px;
+  text-align: center;
+  border-radius: 20px;
+}
